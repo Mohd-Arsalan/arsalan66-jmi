@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-**arsalan66-jmi/arsalan66-jmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**I am Mohammad Arsalan. My main interest lies in Machine learning. I have also basic knowledge of Tableau and SQL. I am laborious and always ready to learn**.
 
 - 🔭 I’m currently working on ML projects
 - 🌱 I’m currently learning NLP and DL
@@ -14,4 +12,3 @@ Here are some ideas to get you started:
 mohammadarsalanjmi1992@gmail.com
 - 😄 Pronouns: You can give one
 - ⚡ Fun fact: I can work without music
--->
